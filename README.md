@@ -1,8 +1,13 @@
 # bootstrap-boilerplate
-
+  
 ## Intro 
-
+  Template for future projects that will use bootstrap framework.
+  
 ## Frameworks and Dependencies
+
+### HTML 5 
+
+### CSS 3
 
 ### Bootstrap
 
